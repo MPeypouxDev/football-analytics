@@ -1,6 +1,6 @@
-# ⚽ Analyse et Prédiction de Performances Football
+# Analyse et Prédiction de Performances Football
 
-Projet data en 6 phases : SQL/Python → nettoyage → visualisation → Machine Learning → dashboard Power BI → documentation.
+Projet data en 6 phases : SQL/Python > nettoyage > visualisation > Machine Learning > dashboard Power BI > documentation.
 
 ## Dataset
 
@@ -30,8 +30,8 @@ football-analytics/
 
 ## Avancement
 
-- [ ] Phase 1 — Fondations (récupération dataset, chargement SQL, requêtes de base)
-- [ ] Phase 2 — Nettoyage & qualité
+- [x] Phase 1 — Fondations (récupération dataset, chargement SQL, requêtes de base)
+- [x] Phase 2 — Nettoyage & qualité
 - [ ] Phase 3 — Analyse & visualisation
 - [ ] Phase 4 — Machine Learning
 - [ ] Phase 5 — Dashboard Power BI
@@ -42,7 +42,3 @@ football-analytics/
 ```bash
 pip install -r requirements.txt
 ```
-
-## Étape actuelle
-
-En attente du fichier `database.sqlite` (à déposer dans `data/raw/`) pour démarrer le chargement en base et les premières requêtes SQL.
